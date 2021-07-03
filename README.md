@@ -40,14 +40,14 @@ pip install tensorflow_gpu==2.0.0
 
 ### <a name='basic'></a> 3.1. Basic
 
-- [Basic operators](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.1%20Basic.ipynb): A simple example that cover TensorFlow 2.0 basic operations.
+- [Basic operators](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.1%20Basic/3.1.1%20Basic.ipynb): A simple example that cover TensorFlow 2.0 basic operations.
 
 ### <a name='basic_models'></a> 3.2. Basic models
 
-- [Linear Regression](): Implement a Linear Regression with TensorFlow 2.0.
-- [Logistic Regression](): Implement a Logistic Regression with TensorFlow 2.0.
-- [Word2Vec (Word Embedding)]()Build a Word Embedding Model (Word2Vec) from Wikipedia data, with TensorFlow 2.0.
-- [Gradient Boosted Decision Trees (GBDT)](): Implement a Gradient Boosted Decision Trees with TensorFlow 2.0+ to predict house value using Boston Housing dataset.
+- [Linear Regression](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.2%20Basic%20models/3.2.1%20Linear%20Regression.ipynb): Implement a Linear Regression with TensorFlow 2.0.
+- [Logistic Regression](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.2%20Basic%20models/3.2.2%20Logistic%20Regression.ipynb): Implement a Logistic Regression with TensorFlow 2.0.
+- [Word2Vec (Word Embedding)](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.2%20Basic%20models/3.2.3%20Word2Vec%20(Word%20Embedding).ipynb)Build a Word Embedding Model (Word2Vec) from Wikipedia data, with TensorFlow 2.0.
+- [Gradient Boosted Decision Trees (GBDT)](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.2%20Basic%20models/3.2.4%20Gradient%20Boosted%20Decision%20Trees.ipynb): Implement a Gradient Boosted Decision Trees with TensorFlow 2.0+ to predict house value using Boston Housing dataset.
 
 ### <a name='neural_nets'></a> 3.3. Neural networks
 
