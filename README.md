@@ -27,7 +27,7 @@ In this tutorial, first, i aim to approach TensorFlow 2.0 from a practical point
 To install TensorFlow 2.0, run:
 
 ```js
-pip install tensorflow~=25.0
+pip install tensorflow~=2.5.0
 ```
 
 Or, if you want GPU support, run:
