@@ -27,7 +27,7 @@ In this tutorial, first, i aim to approach TensorFlow 2.0 from a practical point
 To install TensorFlow 2.0, run:
 
 ```js
-pip install tensorflow==2.0.0
+pip install tensorflow~=2.0.0
 ```
 
 Or, if you want GPU support, run:
@@ -40,7 +40,6 @@ pip install tensorflow_gpu==2.0.0
 
 ### <a name='basic'></a> 3.1. Basic
 
-- [Hello world](): A simple example to learn how to print "hello world" using TensorFlow 2.0.
 - [Basic operators](): A simple example that cover TensorFlow 2.0 basic operations.
 
 ### <a name='basic_models'></a> 3.2. Basic models
