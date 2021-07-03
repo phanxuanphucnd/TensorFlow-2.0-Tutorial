@@ -40,7 +40,7 @@ pip install tensorflow_gpu==2.0.0
 
 ### <a name='basic'></a> 3.1. Basic
 
-- [Basic operators](): A simple example that cover TensorFlow 2.0 basic operations.
+- [Basic operators](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.1%20Basic.ipynb): A simple example that cover TensorFlow 2.0 basic operations.
 
 ### <a name='basic_models'></a> 3.2. Basic models
 
