@@ -22,7 +22,7 @@ In this tutorial, first, i aim to approach TensorFlow 2.0 from a practical point
   <img src="imgs/tensorflow-2.0.gif" width="500" height="300" align="middle">
 </p>
 
-## <a name='installation'></> Installation
+## <a name='installation'></a> Installation
 
 To install TensorFlow 2.0, run:
 
