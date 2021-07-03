@@ -27,13 +27,13 @@ In this tutorial, first, i aim to approach TensorFlow 2.0 from a practical point
 To install TensorFlow 2.0, run:
 
 ```js
-pip install tensorflow~=2.0.0
+pip install tensorflow~=25.0
 ```
 
 Or, if you want GPU support, run:
 
 ```js
-pip install tensorflow_gpu==2.0.0
+pip install tensorflow_gpu~=2.5.0
 ```
 
 ## <a name='tutorial'></a> Tutorial usage
