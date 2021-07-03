@@ -2,15 +2,15 @@
 
 ### Table of contents
 
-I. [Introduction](#intro)
-II. [Installation](#installation)
-III. [Tutorial usage](#tutorial)
-    - [1. Basic](#basic)
-    - [2. Basic models](#basic_models)
-    - [3. Neural networks](#neural_nets)
-    - [4. Utilities](#utilities)
-    - [5. Data management](#data_management)
-    - [6. Multi-GPU Training](#multi_gpu_training)
+1. [Introduction](#intro)
+2. [Installation](#installation)
+3. [Tutorial usage](#tutorial)
+    - [3.1. Basic](#basic)
+    - [3.2. Basic models](#basic_models)
+    - [3.3. Neural networks](#neural_nets)
+    - [3.4. Utilities](#utilities)
+    - [3.5. Data management](#data_management)
+    - [3.6. Multi-GPU Training](#multi_gpu_training)
 
 ## <a name='intro'></a> What is about TensorFlow 2.0
 
@@ -38,19 +38,19 @@ pip install tensorflow_gpu==2.0.0
 
 ## <a name='tutorial'></a> Tutorial usage
 
-### <a name='basic'></a> 1. Basic
+### <a name='basic'></a> 3.1. Basic
 
 - [Hello world](): A simple example to learn how to print "hello world" using TensorFlow 2.0.
 - [Basic operators](): A simple example that cover TensorFlow 2.0 basic operations.
 
-### <a name='basic_models'></a> 2. Basic models
+### <a name='basic_models'></a> 3.2. Basic models
 
 - [Linear Regression](): Implement a Linear Regression with TensorFlow 2.0.
 - [Logistic Regression](): Implement a Logistic Regression with TensorFlow 2.0.
 - [Word2Vec (Word Embedding)]()Build a Word Embedding Model (Word2Vec) from Wikipedia data, with TensorFlow 2.0.
 - [Gradient Boosted Decision Trees (GBDT)](): Implement a Gradient Boosted Decision Trees with TensorFlow 2.0+ to predict house value using Boston Housing dataset.
 
-### <a name='neural_nets'></a> 3. Neural networks
+### <a name='neural_nets'></a> 3.3. Neural networks
 
 - [Simple Neural Networks (CNN)](): Implementation of a simple neural network to classify MNIST digits dataset.
 - [Convolutional Neural Network](): Implementation of a convolutional neural network to classify MNIST digits dataset.
@@ -60,19 +60,19 @@ pip install tensorflow_gpu==2.0.0
 - [Auto-Encoder](): Build an auto-encoder to encode an image to a lower dimension and re-construct it.
 - [Deep Convolutional Generative Adversarial Networks (DCGAN)](): Build a Deep Convolutional Generative Adversarial Network (DCGAN) to generate images from noise.
 
-### <a name='utilities'></a> 4. Utilitites
+### <a name='utilities'></a> 3.4. Utilitites
 
 - [Save and Restore a model](): Save and Restore a model with TensorFlow 2.0.
 - [Build Custom Layers & Modules](): Learn how to build your own layers / modules and integrate them into TensorFlow 2.0 Models.
 - [Tensorboard](): Track and visualize neural network computation graph, metrics, weights and more using TensorFlow 2.0+ tensorboard.
 
-### <a name='data_management'></a> 6. Data management
+### <a name='data_management'></a> 3.5. Data management
 
 - [Load and Parse data](): Build efficient data pipeline with TensorFlow 2.0 (Numpy arrays, Images, CSV files, custom data, ...).
 - [Build and Load TFRecords](): Convert data into TFRecords format, and load them with TensorFlow 2.0.
 - [Image Transformation (i.e. Image Augmentation)](): Apply various image augmentation techniques with TensorFlow 2.0, to generate distorted images for training.
 
-### <a name='multi_gpu_training'></a> 7. Multi-GPU training
+### <a name='multi_gpu_training'></a> 3.6. Multi-GPU training
 
 - [Multi-GPU Training](): Train a convolutional neural network with multiple GPUs on CIFAR-10 dataset.
 
