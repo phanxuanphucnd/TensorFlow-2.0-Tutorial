@@ -51,29 +51,29 @@ pip install tensorflow_gpu~=2.5.0
 
 ### <a name='neural_nets'></a> 3.3. Neural networks
 
-- [Simple Neural Networks](): Implementation of a simple neural network to classify MNIST digits dataset.
-- [Convolutional Neural Network (CNN)](): Implementation of a convolutional neural network to classify MNIST digits dataset.
-- [Recurrent Neural Network (RNN)](): Build a recurrent neural network (LSTM) to classify MNIST digits dataset, using TensorFlow 2.0 'layers' and 'model' API.
-- [Bi-directional Recurrent Neural Network (LSTM)](): Build a bi-directional recurrent neural network (LSTM) to classify MNIST digits dataset, using TensorFlow 2.0 'layers' and 'model' API.
-- [Dynamic Recurrent Neural Network (LSTM)](): Build a recurrent neural network (LSTM) that performs dynamic calculation to classify sequences of variable length, using TensorFlow 2.0 'layers' and 'model' API.
-- [Auto-Encoder](): Build an auto-encoder to encode an image to a lower dimension and re-construct it.
-- [Deep Convolutional Generative Adversarial Networks (DCGAN)](): Build a Deep Convolutional Generative Adversarial Network (DCGAN) to generate images from noise.
+- [Simple Neural Networks](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.3%20Neural%20networks/3.3.1%20Simple%20Neural%20Network.ipynb): Implementation of a simple neural network to classify MNIST digits dataset.
+- [Convolutional Neural Network (CNN)](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.3%20Neural%20networks/3.3.2%20Convolutional%20Neural%20Network%20(CNN).ipynb): Implementation of a convolutional neural network to classify MNIST digits dataset.
+- [Recurrent Neural Network (LSTM)](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.3%20Neural%20networks/3.3.3%20Recurrent%20Neural%20Network%20(LSTM).ipynb): Build a recurrent neural network (LSTM) to classify MNIST digits dataset, using TensorFlow 2.0 'layers' and 'model' API.
+- [Bi-directional Recurrent Neural Network (Bi-LSTM)](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.3%20Neural%20networks/3.3.4%20Bi-Recurrent%20Neural%20Network%20(Bi-LSTM).ipynb): Build a bi-directional recurrent neural network (LSTM) to classify MNIST digits dataset, using TensorFlow 2.0 'layers' and 'model' API.
+- [Dynamic Recurrent Neural Network (LSTM)](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.3%20Neural%20networks/3.3.5%20Dynamic%20Recurrent%20Neural%20Network%20(LSTM).ipynb): Build a recurrent neural network (LSTM) that performs dynamic calculation to classify sequences of variable length, using TensorFlow 2.0 'layers' and 'model' API.
+- [Auto-Encoder](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.3%20Neural%20networks/3.3.6%20Auto-Encoder.ipynb): Build an auto-encoder to encode an image to a lower dimension and re-construct it.
+- [Deep Convolutional Generative Adversarial Networks (DCGAN)](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.3%20Neural%20networks/3.3.7%20Deep%20Convolutional%20Generative%20Adversarial%20Networks%20(DCGAN).ipynb): Build a Deep Convolutional Generative Adversarial Network (DCGAN) to generate images from noise.
 
 ### <a name='utilities'></a> 3.4. Utilitites
 
-- [Save and Restore a model](): Save and Restore a model with TensorFlow 2.0.
-- [Build Custom Layers & Modules](): Learn how to build your own layers / modules and integrate them into TensorFlow 2.0 Models.
-- [Tensorboard](): Track and visualize neural network computation graph, metrics, weights and more using TensorFlow 2.0+ tensorboard.
+- [Save and Restore a model](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.4%20Utilities/3.4.1%20Save%20and%20Restore%20a%20model.ipynb): Save and Restore a model with TensorFlow 2.0.
+- [Build Custom Layers & Modules](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.4%20Utilities/3.4.2%20Build%20Custom%20Layers%20%26%20Modules.ipynb): Learn how to build your own layers / modules and integrate them into TensorFlow 2.0 Models.
+- [Tensorboard](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.4%20Utilities/3.4.3%20Tensorboard.ipynb): Track and visualize neural network computation graph, metrics, weights and more using TensorFlow 2.0+ tensorboard.
 
 ### <a name='data_management'></a> 3.5. Data management
 
-- [Load and Parse data](): Build efficient data pipeline with TensorFlow 2.0 (Numpy arrays, Images, CSV files, custom data, ...).
-- [Build and Load TFRecords](): Convert data into TFRecords format, and load them with TensorFlow 2.0.
-- [Image Transformation (i.e. Image Augmentation)](): Apply various image augmentation techniques with TensorFlow 2.0, to generate distorted images for training.
+- [Load and Parse data](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.5%20Data%20management/3.5.1%20Load%20and%20Parse%20data.ipynb): Build efficient data pipeline with TensorFlow 2.0 (Numpy arrays, Images, CSV files, custom data, ...).
+- [Build and Load TFRecords](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.5%20Data%20management/3.5.2%20Build%20and%20Load%20TFRecords.ipynb): Convert data into TFRecords format, and load them with TensorFlow 2.0.
+- [Image Transformation (i.e. Image Augmentation)](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.5%20Data%20management/3.5.3%20Image%20Transformation.ipynb): Apply various image augmentation techniques with TensorFlow 2.0, to generate distorted images for training.
 
 ### <a name='multi_gpu_training'></a> 3.6. Multi-GPU training
 
-- [Multi-GPU Training](): Train a convolutional neural network with multiple GPUs on CIFAR-10 dataset.
+- [Multi-GPU Training](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.6%20Multi-gpu%20training/3.6.1%20Multi-GPU%20Training.ipynb): Train a convolutional neural network with multiple GPUs on CIFAR-10 dataset.
 
 </br> </br>
 
