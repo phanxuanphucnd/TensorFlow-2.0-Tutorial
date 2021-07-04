@@ -51,8 +51,8 @@ pip install tensorflow_gpu~=2.5.0
 
 ### <a name='neural_nets'></a> 3.3. Neural networks
 
-- [Simple Neural Networks (CNN)](): Implementation of a simple neural network to classify MNIST digits dataset.
-- [Convolutional Neural Network](): Implementation of a convolutional neural network to classify MNIST digits dataset.
+- [Simple Neural Networks](): Implementation of a simple neural network to classify MNIST digits dataset.
+- [Convolutional Neural Network (CNN)](): Implementation of a convolutional neural network to classify MNIST digits dataset.
 - [Recurrent Neural Network (RNN)](): Build a recurrent neural network (LSTM) to classify MNIST digits dataset, using TensorFlow 2.0 'layers' and 'model' API.
 - [Bi-directional Recurrent Neural Network (LSTM)](): Build a bi-directional recurrent neural network (LSTM) to classify MNIST digits dataset, using TensorFlow 2.0 'layers' and 'model' API.
 - [Dynamic Recurrent Neural Network (LSTM)](): Build a recurrent neural network (LSTM) that performs dynamic calculation to classify sequences of variable length, using TensorFlow 2.0 'layers' and 'model' API.
