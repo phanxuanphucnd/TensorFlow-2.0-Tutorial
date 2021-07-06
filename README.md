@@ -78,6 +78,6 @@ pip install tensorflow_gpu~=2.5.0
 
 ## Author
 
-Thank you for your interesting to this tutoriall.
+Thank you for your interesting to this tutorial.
 
 For any questions or comments, please contact the following email: phanxuanphucnd@gmail.com.
