@@ -75,7 +75,6 @@ pip install tensorflow_gpu~=2.5.0
 
 - [Multi-GPU Training](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.6%20Multi-gpu%20training/3.6.1%20Multi-GPU%20Training.ipynb): Train a convolutional neural network with multiple GPUs on CIFAR-10 dataset.
 
-</br> </br>
 
 ## Author
 
