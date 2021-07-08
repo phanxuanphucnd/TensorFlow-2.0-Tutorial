@@ -11,6 +11,7 @@
     - [3.4. Utilities](#utilities)
     - [3.5. Data management](#data_management)
     - [3.6. Multi-GPU Training](#multi_gpu_training)
+    - [3.7. Advanced](#advanced)
 
 ## <a name='intro'></a> What is about TensorFlow 2.0
 
@@ -74,6 +75,11 @@ pip install tensorflow_gpu~=2.5.0
 ### <a name='multi_gpu_training'></a> 3.6. Multi-GPU training
 
 - [Multi-GPU Training](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/blob/main/notebooks/3.6%20Multi-gpu%20training/3.6.1%20Multi-GPU%20Training.ipynb): Train a convolutional neural network with multiple GPUs on CIFAR-10 dataset.
+
+### <a name='advanced'></a> 3.7. Advanced
+
+- [BERT](): Implementation of Google's BERT language model.
+- [Graph Convolution Network (GCN)](): GCN implementation for paper [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf)
 
 
 ## Author
