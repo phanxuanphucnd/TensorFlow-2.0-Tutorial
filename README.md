@@ -78,7 +78,7 @@ pip install tensorflow_gpu~=2.5.0
 
 ### <a name='advanced'></a> 3.7. Advanced
 
-- [BERT](): Implementation of Google's BERT language model.
+- [BERT](https://github.com/phanxuanphucnd/TensorFlow-2.0-Tutorial/tree/main/notebooks/3.7%20Advanced/3.7.1%20BERT): Implementation of Google's BERT language model.
 - [Graph Convolution Network (GCN)](): GCN implementation for paper [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf)
 
 
